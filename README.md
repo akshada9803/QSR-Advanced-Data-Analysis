@@ -4,7 +4,7 @@ Welcome to the Data Analysis Project repository! This project is a comprehensive
 
 ### Project Overview
 
-* This repository demonstrates step-by-step data analysis with practical examples. It focuses on:
+This repository demonstrates step-by-step data analysis with practical examples. It focuses on:
 
 * Exploratory Data Analysis (EDA): Understanding the data structure, cleaning, and preparation.
 
